@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "pot_contours_200k_WGS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CODE": 2402, "DIMOI_MUNI": "Ξ‘Ξ›ΞΞ¥Ξ΅ΞΞ¥", "DIMOI_REGI": "ΞΞ‘Ξ“ΞΞ—Ξ£Ξ™Ξ‘Ξ£", "DIMOI_POPU": 16004 }, "geometry": { "type": "Point", "coordinates": [ 22.742372364203966, 39.11659165120264 ] } },
+{ "type": "Feature", "properties": { "CODE": 2503, "DIMOI_MUNI": "Ξ£ΞΞΞ Ξ•Ξ›ΞΞ¥", "DIMOI_REGI": "Ξ£Ξ ΞΞ΅Ξ‘Ξ”Ξ©Ξ", "DIMOI_POPU": 4377 }, "geometry": { "type": "Point", "coordinates": [ 23.691224617292097, 39.12884802427822 ] } },
+{ "type": "Feature", "properties": { "CODE": 2502, "DIMOI_MUNI": "Ξ‘Ξ›ΞΞΞΞ—Ξ£ΞΞ¥", "DIMOI_REGI": "Ξ£Ξ ΞΞ΅Ξ‘Ξ”Ξ©Ξ", "DIMOI_POPU": 3153 }, "geometry": { "type": "Point", "coordinates": [ 23.905219004928806, 39.202440878147101 ] } },
+{ "type": "Feature", "properties": { "CODE": 2501, "DIMOI_MUNI": "Ξ£ΞΞ™Ξ‘ΞΞΞ¥", "DIMOI_REGI": "Ξ£Ξ ΞΞ΅Ξ‘Ξ”Ξ©Ξ", "DIMOI_POPU": 5499 }, "geometry": { "type": "Point", "coordinates": [ 23.4575709048855, 39.167653269920969 ] } },
+{ "type": "Feature", "properties": { "CODE": 2404, "DIMOI_MUNI": "ΞΞΞ¤Ξ™ΞΞ¥ Ξ Ξ—Ξ›Ξ™ΞΞ¥", "DIMOI_REGI": "ΞΞ‘Ξ“ΞΞ—Ξ£Ξ™Ξ‘Ξ£", "DIMOI_POPU": 8322 }, "geometry": { "type": "Point", "coordinates": [ 23.207975589568481, 39.233403429956404 ] } },
+{ "type": "Feature", "properties": { "CODE": 2303, "DIMOI_MUNI": "Ξ›Ξ™ΞΞΞ—Ξ£ Ξ Ξ›Ξ‘Ξ£Ξ¤Ξ—Ξ΅Ξ‘", "DIMOI_REGI": "ΞΞ‘Ξ΅Ξ”Ξ™Ξ¤Ξ£Ξ‘Ξ£", "DIMOI_POPU": 5285 }, "geometry": { "type": "Point", "coordinates": [ 21.726722312880586, 39.303619488650895 ] } },
+{ "type": "Feature", "properties": { "CODE": 2207, "DIMOI_MUNI": "Ξ¦Ξ‘Ξ΅Ξ£Ξ‘Ξ›Ξ©Ξ", "DIMOI_REGI": "Ξ›Ξ‘Ξ΅Ξ™Ξ£Ξ‘Ξ£", "DIMOI_POPU": 16310 }, "geometry": { "type": "Point", "coordinates": [ 22.437749965723739, 39.304928864811885 ] } },
+{ "type": "Feature", "properties": { "CODE": 2302, "DIMOI_MUNI": "Ξ‘Ξ΅Ξ“Ξ™ΞΞ•Ξ‘Ξ£", "DIMOI_REGI": "ΞΞ‘Ξ΅Ξ”Ξ™Ξ¤Ξ£Ξ‘Ξ£", "DIMOI_POPU": 3515 }, "geometry": { "type": "Point", "coordinates": [ 21.485798725833593, 39.292881962148734 ] } },
+{ "type": "Feature", "properties": { "CODE": 2306, "DIMOI_MUNI": "Ξ£ΞΞ¦Ξ‘Ξ”Ξ©Ξ", "DIMOI_REGI": "ΞΞ‘Ξ΅Ξ”Ξ™Ξ¤Ξ£Ξ‘Ξ£", "DIMOI_POPU": 16577 }, "geometry": { "type": "Point", "coordinates": [ 22.085738027570088, 39.237195463621781 ] } },
+{ "type": "Feature", "properties": { "CODE": 2401, "DIMOI_MUNI": "Ξ’ΞΞ›ΞΞ¥", "DIMOI_REGI": "ΞΞ‘Ξ“ΞΞ—Ξ£Ξ™Ξ‘Ξ£", "DIMOI_POPU": 138865 }, "geometry": { "type": "Point", "coordinates": [ 22.90832986371316, 39.357311043758962 ] } },
+{ "type": "Feature", "properties": { "CODE": 2301, "DIMOI_MUNI": "ΞΞ‘Ξ΅Ξ”Ξ™Ξ¤Ξ£Ξ‘Ξ£", "DIMOI_REGI": "ΞΞ‘Ξ΅Ξ”Ξ™Ξ¤Ξ£Ξ‘Ξ£", "DIMOI_POPU": 56641 }, "geometry": { "type": "Point", "coordinates": [ 21.886365624519293, 39.271537349827717 ] } },
+{ "type": "Feature", "properties": { "CODE": 2403, "DIMOI_MUNI": "Ξ–Ξ‘Ξ“ΞΞ΅Ξ‘Ξ£-ΞΞΞ¥Ξ΅Ξ•Ξ£Ξ™ΞΞ¥", "DIMOI_REGI": "ΞΞ‘Ξ“ΞΞ—Ξ£Ξ™Ξ‘Ξ£", "DIMOI_POPU": 4556 }, "geometry": { "type": "Point", "coordinates": [ 23.097393312554129, 39.435543537439543 ] } },
+{ "type": "Feature", "properties": { "CODE": 2304, "DIMOI_MUNI": "ΞΞΞ¥Ξ–Ξ‘ΞΞ™ΞΞ¥", "DIMOI_REGI": "ΞΞ‘Ξ΅Ξ”Ξ™Ξ¤Ξ£Ξ‘Ξ£", "DIMOI_POPU": 11264 }, "geometry": { "type": "Point", "coordinates": [ 21.716700224936087, 39.407906862317397 ] } },
+{ "type": "Feature", "properties": { "CODE": 2305, "DIMOI_MUNI": "Ξ Ξ‘Ξ›Ξ‘ΞΞ‘", "DIMOI_REGI": "ΞΞ‘Ξ΅Ξ”Ξ™Ξ¤Ξ£Ξ‘Ξ£", "DIMOI_POPU": 13416 }, "geometry": { "type": "Point", "coordinates": [ 22.080101778804799, 39.475422006428147 ] } },
+{ "type": "Feature", "properties": { "CODE": 2405, "DIMOI_MUNI": "Ξ΅Ξ—Ξ“Ξ‘ Ξ¦Ξ•Ξ΅Ξ‘Ξ™ΞΞ¥", "DIMOI_REGI": "ΞΞ‘Ξ“ΞΞ—Ξ£Ξ™Ξ‘Ξ£", "DIMOI_POPU": 8841 }, "geometry": { "type": "Point", "coordinates": [ 22.810097035710992, 39.435842453332349 ] } },
+{ "type": "Feature", "properties": { "CODE": 2603, "DIMOI_MUNI": "Ξ Ξ¥Ξ›Ξ—Ξ£", "DIMOI_REGI": "Ξ¤Ξ΅Ξ™ΞΞ‘Ξ›Ξ©Ξ", "DIMOI_POPU": 12915 }, "geometry": { "type": "Point", "coordinates": [ 21.438626652320345, 39.481086047850262 ] } },
+{ "type": "Feature", "properties": { "CODE": 2204, "DIMOI_MUNI": "ΞΞ™Ξ›Ξ•Ξ›Ξ•Ξ΅", "DIMOI_REGI": "Ξ›Ξ‘Ξ΅Ξ™Ξ£Ξ‘Ξ£", "DIMOI_POPU": 18068 }, "geometry": { "type": "Point", "coordinates": [ 22.512966855148708, 39.521167849277546 ] } },
+{ "type": "Feature", "properties": { "CODE": 2604, "DIMOI_MUNI": "Ξ¦Ξ‘Ξ΅ΞΞ‘Ξ”ΞΞΞ‘Ξ£", "DIMOI_REGI": "Ξ¤Ξ΅Ξ™ΞΞ‘Ξ›Ξ©Ξ", "DIMOI_POPU": 11348 }, "geometry": { "type": "Point", "coordinates": [ 22.029259392757083, 39.604475483044595 ] } },
+{ "type": "Feature", "properties": { "CODE": 2201, "DIMOI_MUNI": "Ξ›Ξ‘Ξ΅Ξ™Ξ£Ξ‘Ξ™Ξ©Ξ", "DIMOI_REGI": "Ξ›Ξ‘Ξ΅Ξ™Ξ£Ξ‘Ξ£", "DIMOI_POPU": 164381 }, "geometry": { "type": "Point", "coordinates": [ 22.336033176227865, 39.621844820452878 ] } },
+{ "type": "Feature", "properties": { "CODE": 2601, "DIMOI_MUNI": "Ξ¤Ξ΅Ξ™ΞΞΞ‘Ξ™Ξ©Ξ", "DIMOI_REGI": "Ξ¤Ξ΅Ξ™ΞΞ‘Ξ›Ξ©Ξ", "DIMOI_POPU": 78508 }, "geometry": { "type": "Point", "coordinates": [ 21.771500700148763, 39.611770295948965 ] } },
+{ "type": "Feature", "properties": { "CODE": 2602, "DIMOI_MUNI": "ΞΞ•Ξ¤Ξ•Ξ©Ξ΅Ξ©Ξ", "DIMOI_REGI": "Ξ¤Ξ΅Ξ™ΞΞ‘Ξ›Ξ©Ξ", "DIMOI_POPU": 19290 }, "geometry": { "type": "Point", "coordinates": [ 21.514046626004472, 39.734313548423778 ] } },
+{ "type": "Feature", "properties": { "CODE": 2202, "DIMOI_MUNI": "Ξ‘Ξ“Ξ™Ξ‘Ξ£", "DIMOI_REGI": "Ξ›Ξ‘Ξ΅Ξ™Ξ£Ξ‘Ξ£", "DIMOI_POPU": 10705 }, "geometry": { "type": "Point", "coordinates": [ 22.751314493128636, 39.70971552371163 ] } },
+{ "type": "Feature", "properties": { "CODE": 2206, "DIMOI_MUNI": "Ξ¤Ξ¥Ξ΅ΞΞ‘Ξ’ΞΞ¥", "DIMOI_REGI": "Ξ›Ξ‘Ξ΅Ξ™Ξ£Ξ‘Ξ£", "DIMOI_POPU": 22252 }, "geometry": { "type": "Point", "coordinates": [ 22.296149030283622, 39.768179193879789 ] } },
+{ "type": "Feature", "properties": { "CODE": 2205, "DIMOI_MUNI": "Ξ¤Ξ•ΞΞ Ξ©Ξ", "DIMOI_REGI": "Ξ›Ξ‘Ξ΅Ξ™Ξ£Ξ‘Ξ£", "DIMOI_POPU": 11994 }, "geometry": { "type": "Point", "coordinates": [ 22.547799564813641, 39.842234003445235 ] } },
+{ "type": "Feature", "properties": { "CODE": 2203, "DIMOI_MUNI": "Ξ•Ξ›Ξ‘Ξ£Ξ£ΞΞΞ‘Ξ£", "DIMOI_REGI": "Ξ›Ξ‘Ξ΅Ξ™Ξ£Ξ‘Ξ£", "DIMOI_POPU": 25441 }, "geometry": { "type": "Point", "coordinates": [ 22.151078750015834, 39.945894124570373 ] } }
+]
+}
